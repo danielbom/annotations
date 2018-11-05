@@ -57,3 +57,9 @@
 * 1_part_command /
 2_part_command
 
+---
+
+##### Instalar arquivos .bin
+* chmod a+x {file}.bin
+* ./{file}.bin
+
